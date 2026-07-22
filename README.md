@@ -1,5 +1,5 @@
 
- # 🧮 Complete Maths Bootcamp 2025
+ # 🧮 Complete Maths Bootcamp
 
 > **Practical maths bootcamp with theory, solved problems, and Python implementations for real understanding.**
 
